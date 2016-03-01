@@ -15,4 +15,6 @@
 #endif /* View_h */
 
 
-extern void Display();
+extern void DisplayStroke();
+extern void DisplayBitMap();
+extern void Init();
